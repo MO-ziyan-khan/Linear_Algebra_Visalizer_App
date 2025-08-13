@@ -8,6 +8,7 @@ An interactive web application built with Streamlit that visualizes linear trans
 - Grid Transformation
 - Shear Transformation
 - Determinant Visualization
+- visualization of line
 - Interactive Controls
 - Real-time Updates
 
