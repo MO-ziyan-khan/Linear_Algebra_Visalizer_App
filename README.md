@@ -1,4 +1,4 @@
-# Linear Transformation Visualizer
+# Linear Algebra Visualizer
 
 An interactive web application built with Streamlit that visualizes linear transformations in 2D space. This tool helps students and educators understand linear algebra concepts through dynamic visualizations.
 
@@ -16,8 +16,8 @@ An interactive web application built with Streamlit that visualizes linear trans
 
 1. Clone the repository
 ```bash
-git clone https://github.com/MO-ziyan-khan/Linear_Transformation_Visualize_App.git
-cd Linear_Transformation_Visualize_App
+git clone https://github.com/MO-ziyan-khan/Linear_Algebra_Visualize_App.git
+cd Linear_Algebra_Visualize_App
 ```
 
 2. Install dependencies
