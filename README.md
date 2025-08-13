@@ -16,7 +16,7 @@ An interactive web application built with Streamlit that visualizes linear trans
 
 1. Clone the repository
 ```bash
-git clone https://github.com/MO-ziyan-khan/Linear_Algebra_Visualize_App.git
+git clone https://github.com/MO-ziyan-khan/Linear_Algebra_Visualizer_App.git
 cd Linear_Algebra_Visualize_App
 ```
 
